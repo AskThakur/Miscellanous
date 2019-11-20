@@ -1,5 +1,5 @@
 {
-    "super": {
+    "super effective": {
         "Normal": [],
         "Fire": [
             "Grass",
@@ -87,7 +87,7 @@
             "Dark"
         ]
     },
-    "normal": {
+    "normal effective": {
         "Normal": [
             "Normal",
             "Fire",
@@ -329,7 +329,7 @@
             "Fairy"
         ]
     },
-    "nv": {
+    "not very effective": {
         "Normal": [
             "Rock",
             "Steel"
@@ -428,7 +428,7 @@
             "Steel"
         ]
     },
-    "immune": {
+    "no effect": {
         "Normal": [
             "Ghost"
         ],
